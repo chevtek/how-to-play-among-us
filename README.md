@@ -8,9 +8,9 @@
 
 There are two ways crew meetings can be called.
 
-1. The emergency meeting button in the cafeteria. Everyone has 1 emergency meeting they can call(or more if game host changes it). Only use it if you have concrete evidence to share about someone you suspect. For example, if you saw a player pop out of a ventilation duct then you know they are the imposter because regular crewmates can't use the vents.
+1. **The emergency meeting button in the cafeteria.** Everyone has 1 emergency meeting they can call(or more if game host changes it). Only use it if you have concrete evidence to share about someone you suspect. For example, if you saw a player pop out of a ventilation duct then you know they are the imposter because regular crewmates can't use the vents.
 
-2. A body is reported. Anyone can report a dead body, including the imposters themselves which is known as "self-reporting". If you find a body and hit the report button then a crew meeting is immediately called and everyone can begin discussing the game and what they do or don't know.
+2. **A body is reported.** Anyone can report a dead body, including the imposters themselves which is known as "self-reporting". If you find a body and hit the report button then a crew meeting is immediately called and everyone can begin discussing the game and what they do or don't know.
 
 Once a meeting is called then all players have to vote on who they think is the imposter. If you can't decide who is the imposter you can vote to skip down in the bottom left corner of the meeting screen. If a majority vote is cast on a single player then that player is ejected. Crewmates win if they eject all the imposters. Imposter(s) win if they eject or kill most of the crewmates.
 
