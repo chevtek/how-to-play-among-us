@@ -73,4 +73,4 @@ That's it! There's a few other little things around the map such as the cameras 
 
 Now go play and get ready for some hilarious moments, like [this one!](https://youtu.be/3QCwInr7yHM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3QCwInr7yHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%; min-height: 315px;" src="https://www.youtube.com/embed/3QCwInr7yHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
