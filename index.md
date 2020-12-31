@@ -69,7 +69,7 @@ As an imposter you have another useful tool at your disposal. The sabotage map. 
 
 ---
 
-That's it! There's a few other little things around the map such as the cameras in Security or the console in Admin that will show you some info about where players are. Feel free to fiddle with those, but **only if your tasks are done!** If you're in security watching the cameras all the time but haven't completed your tasks then your friends might get a bit testy since you are preventing crewmates from being able to win by task completion.
+That's it! There's a few other little things around the map such as the cameras in Security or the console in Admin that will show you some info about where players are. Feel free to fiddle with those, but **only if your tasks are done!** <span title="Bunsen 👀">If you're in security watching the cameras all the time but haven't completed your tasks then your friends might get a bit testy since you are preventing crewmates from being able to win by task completion.</span>
 
 Now go play and get ready for some hilarious moments, like [this one!](https://youtu.be/3QCwInr7yHM)
 
