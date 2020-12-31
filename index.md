@@ -14,7 +14,7 @@ There are two ways crew meetings can be called.
 
 Once a meeting is called then all players have to vote on who they think is the imposter. If you can't decide who is the imposter you can vote to skip down in the bottom left corner of the meeting screen. If a majority vote is cast on a single player then that player is ejected. Crewmates win if they eject all the imposters. Imposter(s) win if they eject or kill most of the crewmates.
 
-![](assets/report-a-body-and-vote.gif)
+[![](assets/report-a-body-and-vote.gif)](assets/report-a-body-and-vote.gif)
 
 ---
 
@@ -22,18 +22,18 @@ Once a meeting is called then all players have to vote on who they think is the 
 
 If you are a crewmate you will have tasks around the map to complete.
 
-![](assets/task-list.png)
-![](assets/task-locations.png)
+[![](assets/task-list.png)](assets/task-list.png)
+[![](assets/task-locations.png)](assets/task-locations.png)
 
 Mostly pretty easy stuff like pushing a button or solving a small puzzle.
 
-![](assets/do-a-task.gif)
+[![](assets/do-a-task.gif)](assets/do-a-task.gif)
 
 While doing tasks you just want to keep your eyes peeled for who is doing what as you pass them. Do try to complete your tasks quickly because if everyone completes them then the crewmates win.
 
 If you die you will turn into a ghost and only other ghosts will be able to see you. It is important to note that **ghosts still have tasks**.
 
-![](assets/ghosts-still-have-tasks.png)
+[![](assets/ghosts-still-have-tasks.png)](assets/ghosts-still-have-tasks.png)
 
 Don't stop doing your tasks just because you got killed. In fact, you can do them faster now because you can move through walls :D
 
@@ -45,27 +45,27 @@ If you are an imposter you will have tasks on your map but you won't be able to 
 
 You can sneak around the map using ventilation ducts.
 
-![](assets/using-a-vent.gif)
+[![](assets/using-a-vent.gif)](assets/using-a-vent.gif)
 
 Just don't let people see you use them because only the imposter can use them.
 
 You want to be sneaky and try to get people alone and then kill them so nobody else sees you do it. You can sit inside vents and wait for the exit to be clear before you pop out, making for a convenient way to catch crew members by surprise.
 
-![](assets/making-a-kill.gif)
+[![](assets/making-a-kill.gif)](assets/making-a-kill.gif)
 
 As an imposter you have another useful tool at your disposal. The sabotage map. At any time and from anywhere you can click the sabotage button and pull up a map. There are three types of sabotage you can do.
 
 1. **Doors.** Tons of rooms on the sabotage map have a doors button. If you click it then the doors to that room or section will close and lock for about 30 seconds. You can use this to trap someone in with you or you could simply use it to annoy or cast suspicions on other players.
 
-    ![](assets/sabotage-doors.png)
+    [![](assets/sabotage-doors.png)](assets/sabotage-doors.png)
 
 2. **Inconviences.** There are two sabotage hacks you can do that are merely inconveniences for the players. First is the lightning bolt in Electrical. If you click that button it will turn the lights out across the whole ship. Crewmates will only be able to see an inch in front of themselves, but you as the imposter will still have full vision. The second is the wifi symbol in Communications. Clicking that will sabotage comms which takes down cameras and prevents upload tasks from being completed until it is resolved.
 
-    ![](assets/sabotage-inconveniences.png)
+    [![](assets/sabotage-inconveniences.png)](assets/sabotage-inconveniences.png)
 
 3. **Emergencies.** There are two things you can sabotage that require immediate attention from the crew or else they risk losing the game. First is the radioactive symbol in Reactor. Clicking that will trigger a reactor core meltdown and all crewmates must attend to this emergency or risk losing the game. If the timer runs out and the sabotage is not resolved then the ship explodes and the imposter wins. The second is the O2 button in the O2 room. Hitting that button will disable life support on the ship. Just like reactor a countdown will begin and if it hits zero before the crew can resolve it then they will all die and the imposter wins.
 
-    ![](assets/sabotage-emergencies.png)
+    [![](assets/sabotage-emergencies.png)](assets/sabotage-emergencies.png)
 
 ---
 
