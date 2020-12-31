@@ -2,7 +2,7 @@
 
 ## Overview
 
-5-10 people on a crew. Game starts and tells you if you are a crewmate or an imposter. Cremates do tasks and keep their eyes peeled for any funny business. Imposter(s) try to sneakily kill crewmates without being seen. There is no talking (at least about game stuff) while people are doing tasks. Only when a crew meeting has been called can you speak about the game.
+5-10 people on a crew. Game starts and tells you if you are a crewmate or an imposter. Crewmates do tasks and keep their eyes peeled for any funny business. Imposter(s) try to sneakily kill crewmates without being seen. There is no talking (at least about game stuff) while people are doing tasks. Only when a crew meeting has been called can you speak about the game.
 
 > Note: If you have a hard time containing vocal (or visual if using a webcam) reactions then we recommend muting your mic while doing tasks so no gasps or other vocalizations will give away that you have been killed.
 
